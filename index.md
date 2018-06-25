@@ -1,2 +1,2 @@
 ## Coding Challenge 6 viewer
-[Coding_Challenge-6/index.html]
++For more details see [GitHub Flavored Markdown](Coding_Challenge-6/index.html)
