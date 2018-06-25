@@ -1,2 +1,4 @@
 ## Coding Challenge 6 viewer
-+For more details see [Coding Challenge 6](Coding_Challenge-6/index.html)
++To view the html file: [Coding Challenge 6](https://raw.githubusercontent.com/whitneyscott/Coding_Challenge-6/master/index.html)
+https://github.com/whitneyscott/Coding_Challenge-6/blob/master/index.html
++To view the project html file: [Coding Challenge 6](https://raw.githubusercontent.com/whitneyscott/Coding_Challenge-6/master/index.html)
